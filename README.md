@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryann911/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryann911/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -24,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
