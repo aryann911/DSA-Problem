@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aryann911/DSA-Problem/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
