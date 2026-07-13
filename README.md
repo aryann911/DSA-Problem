@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aryann911/DSA-Problem/tree/master/0367-valid-perfect-square) |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aryann911/DSA-Problem/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
