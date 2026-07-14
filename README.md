@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aryann911/DSA-Problem/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
