@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryann911/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryann911/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryann911/DSA-Problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryann911/DSA-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aryann911/DSA-Problem/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryann911/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aryann911/DSA-Problem/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aryann911/DSA-Problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aryann911/DSA-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/aryann911/DSA-Problem/tree/master/2540-minimum-common-value) |
 ## Greedy
