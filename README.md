@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryann911/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryann911/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryann911/DSA-Problem/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryann911/DSA-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aryann911/DSA-Problem/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aryann911/DSA-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aryann911/DSA-Problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aryann911/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/aryann911/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aryann911/DSA-Problem/tree/master/0704-binary-search) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -67,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aryann911/DSA-Problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
