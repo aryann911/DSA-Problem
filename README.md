@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryann911/DSA-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aryann911/DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryann911/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/aryann911/DSA-Problem/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryann911/DSA-Problem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/aryann911/DSA-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aryann911/DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1331-rank-transform-of-an-array) |
