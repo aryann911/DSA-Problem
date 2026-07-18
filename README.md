@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aryann911/DSA-Problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aryann911/DSA-Problem/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/aryann911/DSA-Problem/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aryann911/DSA-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aryann911/DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aryann911/DSA-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
