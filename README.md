@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aryann911/DSA-Problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aryann911/DSA-Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryann911/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aryann911/DSA-Problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aryann911/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryann911/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aryann911/DSA-Problem/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
@@ -181,4 +183,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aryann911/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aryann911/DSA-Problem/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryann911/DSA-Problem/tree/master/0876-middle-of-the-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryann911/DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
