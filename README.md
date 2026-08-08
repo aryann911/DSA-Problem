@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryann911/DSA-Problem/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/aryann911/DSA-Problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/aryann911/DSA-Problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryann911/DSA-Problem/tree/master/0069-sqrtx) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryann911/DSA-Problem/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aryann911/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aryann911/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aryann911/DSA-Problem/tree/master/0231-power-of-two) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryann911/DSA-Problem/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryann911/DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aryann911/DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aryann911/DSA-Problem/tree/master/0141-linked-list-cycle) |
